@@ -1,1 +1,0 @@
-Uncompress lib.7z to this directory

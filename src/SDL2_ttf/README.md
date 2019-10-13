@@ -1,1 +1,0 @@
-Unpack SDL2_ttf.7z to this directory
